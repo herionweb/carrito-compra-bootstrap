@@ -1,0 +1,38 @@
+[
+  {
+    "precio": 1000,
+    "id": 1,
+    "title": "Galicia",
+    "thumbnailUrl": "https://placeimg.com/350/300/arch"
+  },
+  {
+    "precio": 2500,
+    "id": 2,
+    "title": "Ciudad Real",
+    "thumbnailUrl": "https://placeimg.com/350/300/animals"
+  },
+  {
+    "precio": 1800,
+    "id": 3,
+    "title": "Cordoba",
+    "thumbnailUrl": "https://placeimg.com/350/300/nature"
+  },
+  {
+    "precio": 800,
+    "id": 4,
+    "title": "Valdepeñas",
+    "thumbnailUrl": "https://placeimg.com/350/300/people"
+  },
+  {
+    "precio": 450,
+    "id": 5,
+    "title": "Granada",
+    "thumbnailUrl": "https://placeimg.com/350/300/tech"
+  },
+  {
+    "precio": 1200,
+    "id": 6,
+    "title": "Asturias",
+    "thumbnailUrl": "https://placeimg.com/350/300/grayscale"
+  }
+]
